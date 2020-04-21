@@ -1,0 +1,11 @@
+C:\Users\Usenmfon\Documents\LocalRepo\passKey\obj\Debug\netcoreapp3.1\passKey.csprojAssemblyReference.cache
+C:\Users\Usenmfon\Documents\LocalRepo\passKey\obj\Debug\netcoreapp3.1\passKey.AssemblyInfoInputs.cache
+C:\Users\Usenmfon\Documents\LocalRepo\passKey\obj\Debug\netcoreapp3.1\passKey.AssemblyInfo.cs
+C:\Users\Usenmfon\Documents\LocalRepo\passKey\bin\Debug\netcoreapp3.1\passKey.exe
+C:\Users\Usenmfon\Documents\LocalRepo\passKey\bin\Debug\netcoreapp3.1\passKey.deps.json
+C:\Users\Usenmfon\Documents\LocalRepo\passKey\bin\Debug\netcoreapp3.1\passKey.runtimeconfig.json
+C:\Users\Usenmfon\Documents\LocalRepo\passKey\bin\Debug\netcoreapp3.1\passKey.runtimeconfig.dev.json
+C:\Users\Usenmfon\Documents\LocalRepo\passKey\bin\Debug\netcoreapp3.1\passKey.dll
+C:\Users\Usenmfon\Documents\LocalRepo\passKey\bin\Debug\netcoreapp3.1\passKey.pdb
+C:\Users\Usenmfon\Documents\LocalRepo\passKey\obj\Debug\netcoreapp3.1\passKey.dll
+C:\Users\Usenmfon\Documents\LocalRepo\passKey\obj\Debug\netcoreapp3.1\passKey.pdb
